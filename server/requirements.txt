@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 numpy==1.17.4
 Pillow==6.2.1
 PyWavelets==1.1.1
